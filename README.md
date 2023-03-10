@@ -11,8 +11,7 @@
 
 - 🤝 I’m looking for help with **data structures**
 
-- 👨‍💻 All of my projects are available at [oops... I haven't made it yet](oops... I haven't made it yet)
-
+- 👨‍💻 All of my projects are available at **I think....Github account**
 - 💬 Ask me about **C , C++ , Python , Javascript**
 
 - 📫 How to reach me **priyassinha71202@gmail.com**
